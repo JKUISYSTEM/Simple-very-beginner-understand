@@ -1,2 +1,4 @@
 # Simple-very-beginner-understand
-for very beginner for unity game development.
+For very beginner for unity game development.
+
+To apply this code or if you want to know how to use this code with tutorial check my channel Nova Voxel.
